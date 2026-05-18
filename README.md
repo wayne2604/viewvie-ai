@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=🎬+Viewvie+Movie+Recommendation+App" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=🎬+Viewvie+Movie+Recommendation+App" alt="Title" />
 </div>
 
 A modern Android movie recommendation app powered by AI. Viewvie combines Netflix-style browsing with intelligent recommendations from Cue, your personal AI movie assistant.
@@ -92,8 +92,7 @@ Viewvie follows modern Android architecture principles with a hybrid approach:
 ---
 
 ### 👤 Author
-
-**KyRhetTeng** — Building the future of movie discovery with AI
+**Wayne** — [github.com/wayne2604](https://github.com/wayne2604)
 
 ---
 
