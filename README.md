@@ -48,6 +48,21 @@ Sync Gradle dependencies and run the app on an emulator or physical device.
 
 ---
 
+### 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.jpg" width="260" alt="Home Screen" />
+  <img src="screenshots/cue_assistant.jpg" width="260" alt="Cue AI Assistant" />
+  <img src="screenshots/search.jpg" width="260" alt="Search Screen" />
+</p>
+<p align="center">
+  <img src="screenshots/navigation_drawer.jpg" width="260" alt="Navigation Drawer" />
+  <img src="screenshots/login.jpg" width="260" alt="Login Screen" />
+  <img src="screenshots/signup.jpg" width="260" alt="Sign Up Screen" />
+</p>
+
+---
+
 ### 🛠️ How it works
 
 Viewvie follows modern Android architecture principles with a hybrid approach:
